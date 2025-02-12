@@ -1,3 +1,0 @@
-pathPatients = data/patients.csv
-pathDoctors = data/doctors.csv
-nextID = 0
